@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "7091f67d-055b-448f-a08c-65a71fd969e1",
+            "Value": {
+                "id": "dc001b85-b61d-4d79-930c-08e335bdaa6b",
+                "resourcePath": "sprites\\s_detect_compass_test_ver\\s_detect_compass_test_ver.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "77d2e5dc-4b49-408c-b8ce-5d64535eea05",
             "Value": {
                 "id": "492b1639-ffa1-4e3d-a769-32ab96ce03b8",

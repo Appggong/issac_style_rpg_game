@@ -42,29 +42,29 @@ if moving_state_ = moving.idle{
 }
 
 ///attack state
-if mouse_check_button(mb_left){
+if mouse_check_button_released(mb_left){
 	if direction_facing_ = direction_facing.north{
 	instance_create_layer(x,y-64,"instances",o_hitbox);
 	}
 }
-if mouse_check_button(mb_left){
+if mouse_check_button_released(mb_left){
 	if direction_facing_ = direction_facing.south{
 	instance_create_layer(x,y+64,"instances",o_hitbox);
 	}
 }
-if mouse_check_button(mb_left){
+if mouse_check_button_released(mb_left){
 	if direction_facing_ = direction_facing.east{
 	instance_create_layer(x-64,y,"instances",o_hitbox);
 	}
 }
-if mouse_check_button(mb_left){
+if mouse_check_button_released(mb_left){
 	if direction_facing_ = direction_facing.west{
 	instance_create_layer(x+64,y,"instances",o_hitbox);
 	}
 }
 
 //compass
-if mouse_check_button(mb_left){
+if mouse_check_button_pressed(mb_left){
 	instance_create_layer(x,y,"instances",o_detect_compass);
 }
 
