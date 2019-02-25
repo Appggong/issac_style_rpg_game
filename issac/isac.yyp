@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "e9943d33-14da-4c3f-baf2-035ac4c46ec5",
+            "Value": {
+                "id": "f3c534c6-b92c-4f13-9a1b-44986fe93744",
+                "resourcePath": "objects\\o_test_for_github\\o_test_for_github.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ed49c3aa-39ec-486e-b7aa-cfebf5815b8b",
             "Value": {
                 "id": "6430457c-9c03-4852-91f5-a6b274a1ea09",
