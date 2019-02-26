@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "7a9126bd-014e-4f6d-98dd-522388723348",
+            "Value": {
+                "id": "2e5119a9-7190-40f8-bd42-76db4454508d",
+                "resourcePath": "objects\\o_hitbox\\o_hitbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8110be04-ca6e-4f69-bc1c-80fb43fbd563",
             "Value": {
                 "id": "4d1aa053-1988-4e16-bde5-445277425f8e",
